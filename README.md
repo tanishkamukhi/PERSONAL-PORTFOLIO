@@ -22,4 +22,6 @@ It is designed to give visitors a quick overview of my work and professional bac
 1. Clone this repository:
    ```bash
    git clone https://github.com/tanishkamukhi/PERSONAL-PORTFOLIO.git
+2. Open index.html in your browser.
 
+3. Explore the portfolio!
