@@ -25,3 +25,7 @@ It is designed to give visitors a quick overview of my work and professional bac
 2. Open index.html in your browser.
 
 3. Explore the portfolio!
+
+
+
+**Live Demo:** https://cozy-dasik-6e5dc4.netlify.app/
