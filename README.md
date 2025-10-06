@@ -73,11 +73,11 @@ That’s it! 🎉 You can now explore the portfolio locally.
 
 🧩 Future Improvements
 
-⚫ Add animations using JavaScript or GSAP
+-  Add animations using JavaScript or GSAP
 
-⚫ Improve mobile responsiveness further
+- Improve mobile responsiveness further
 
-⚫ Add dark/light mode toggle
+- Add dark/light mode toggle
 
 ---
 
